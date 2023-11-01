@@ -34,7 +34,7 @@ Our tool is tailored to meet your specific needs with additional custom features
    apt install git python python2 -y
    ```
 3. ```
-   git clone https://github.com/SUKH-H4CKER/Pass-Wiz.git/
+   git clone https://github.com/SUKH-H4CKER/Pass-Wiz.git
    ```
 4. ```
    cd Pass-Wiz
@@ -43,9 +43,12 @@ Our tool is tailored to meet your specific needs with additional custom features
    chmod +x *
    ```
 6. ```
-   pip install -r requirements.txt
+   pip install colorama==0.4.6
    ```
 7. ```
+   pip install rich==13.6.0
+   ```     
+8. ```
    termux-setup-storage
    ```
 
@@ -60,13 +63,13 @@ Our tool is tailored to meet your specific needs with additional custom features
 
 **License Agreement:**
 
-ePass-Wiz is governed by a licensing agreement. You must credit the owner for any usage and obtain permission for any modifications. Non-compliance may result in legal action.
+Pass-Wiz is governed by a licensing agreement. You must credit the owner for any usage and obtain permission for any modifications. Non-compliance may result in legal action.
 
 ## Contact
 
 Feel free to connect with us through the following channels:
 
-- Instagram: [Your Instagram Link]
-- Telegram Channel: [Your Telegram Channel Link]
+- [Instagram](https://instagram.com/__king_of_hackers__?igshid=MzNlNGNkZWQ4Mg==)
+- Telegram Channel: [https://t.me/SUKH_H4CKER_Group]
 
-**Thank you for choosing ePass-Wiz – Your Password Cracking Companion!**
+**Thank you for choosing Pass-Wiz – Your Password Cracking Companion!**
