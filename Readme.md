@@ -69,7 +69,7 @@ Pass-Wiz is governed by a licensing agreement. You must credit the owner for any
 
 Feel free to connect with us through the following channels:
 
-- [Instagram](https://instagram.com/__king_of_hackers__?igshid=MzNlNGNkZWQ4Mg==)
-- Telegram Channel: [https://t.me/SUKH_H4CKER_Group]
+- Instagram: [My Instagram](https://instagram.com/__king_of_hackers__?igshid=MzNlNGNkZWQ4Mg==)
+- Telegram Group: [My Telegram Group](https://t.me/SUKH_H4CKER_Group)
 
 **Thank you for choosing Pass-Wiz – Your Password Cracking Companion!**
