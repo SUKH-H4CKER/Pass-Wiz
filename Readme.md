@@ -2,15 +2,7 @@
 
 Welcome to the Pass-Wiz repository, your gateway to efficient password cracking!
 
-
 ![Logo](https://github.com/SUKH-H4CKER/Pass-Wiz/blob/main/images/Start.png)
-
-
-
-## Tool-Video
-
-[!(https://github.com/SUKH-H4CKER/readmd/blob/main/Screenshot_20231030-165853_Termux.png)](https://vimeo.com/879647930)
-
 
 ## Introduction
 
